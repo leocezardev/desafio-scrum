@@ -1,4 +1,4 @@
-Aplicação do Scrum no caso da Sony pode ser feita a partir dos seguintes pontos:
+Aplicação do Scrum no case da Sony pode ser feita a partir dos seguintes pontos:
 
 O contexto e os desafios da Sony: A Sony é uma empresa global de tecnologia que desenvolve produtos de hardware e software para diversos mercados. A empresa enfrentava problemas de comunicação, colaboração, qualidade e entrega entre as equipes de desenvolvimento, que eram distribuídas em diferentes países e culturas. A empresa também precisava se adaptar às mudanças rápidas e às demandas dos clientes, que exigiam produtos inovadores e de alto desempenho.
 
